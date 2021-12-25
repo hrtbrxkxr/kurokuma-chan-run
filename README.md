@@ -7,4 +7,6 @@ But I think at least I should try to learning about it for improve my unity deve
 I will be glad if you can tell me some suggestion to improve my skill. I just want to do better in the future! 😸  
 Since this project's files are very big, I will upload only Scences files and Scripts files. Other files like 3D model, Environment, Fonts that not my own materials, I will give credits all below.
 ## How to play
+You can download and play it here. https://hrtbrxkxr.itch.io/kurokuma-chan-run (Windows)  
+In this game you will play as kuro kama chan and run along the stage. You need to avoid the obstacles by  using an arrow key (left or right). If you hit the obstacle, the game will be over! try to get some high score!
 ## All of credits
